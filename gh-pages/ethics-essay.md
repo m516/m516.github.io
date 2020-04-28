@@ -1,3 +1,7 @@
+layout: page
+title: "Ethics Essay"
+permalink: m516.github.io/ethics-essay
+
 #Ethics Essay
 
 A code of ethics is a set of guidelines that people abide by when they make decisions that involve the well-being of others. Usually this comes at an expense: Vehicle manufacturers could create cheaper cars at the expense of their safety. Architects and civil engineers could design bridges and buildings with less expensive materials, but the worth of human life is far greater than the price overhead. The government could reduce regulations for the emission of toxic gasses and fluids that come from manufacturing processes, but the ensuing problems would be far more impactful than the benefits of immediate monetary gain. 

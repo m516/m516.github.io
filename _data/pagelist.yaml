@@ -1,0 +1,20 @@
+pagelist:
+  - title: About Me
+    subfolderitems:
+      - page: about page
+        url: /about.html
+  - title: Projects
+    subfolderitems:
+      - page: (Yet to be added)
+        url: /about.html
+        subsubfolderitems:
+          - page: Subthing 1
+            url: /subthing1.html
+          - page: Subthing 2
+            url: /subthing2.html
+      - page: Thing 3
+        url: /thing3.html
+  - title: Other
+    subfolderitems:
+      - page: Cpr E 394 Ethics Essay
+        url: /other/essay.html

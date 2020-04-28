@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Main Menu
+title: Micah Mundy's Portfolio
 ---
 # Site Index
 

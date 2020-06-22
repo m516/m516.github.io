@@ -2,7 +2,9 @@
 layout: default
 title: Micah Mundy's Portfolio
 ---
-# Site Index
+
+## Personal Projects
+* [CV Sandbox](https://m516.github.io/CV-Sandbox/) entails the work I've done with OpenCV for C++.
 
 <div>
 {% if site.data.pagelist.pagelist[0] %}
@@ -26,3 +28,4 @@ title: Micah Mundy's Portfolio
     {% endfor %}
 {% endif %}
 </div>
+

@@ -9,6 +9,8 @@ title: Micah Mundy's Portfolio
   written as a Processing sketch.
 * [Pi Mandelbrot Renderer](https://m516.github.io/Pi-Mandelbrot-Renderer/) is an attempt at simple hardware acceleration for    
   rendering the Mandelbrot fractal on the Raspberry Pi.
+* [The Ultimate String Analysis Tool (USAT)](https://ultimate-string-analysis-tool.github.io/USAT/) is a work in progress, but may 
+  eventually become a cross-platform tool that uses plug-ins to identify and make sense of encodings and encryptions.
 
 <div>
 {% if site.data.pagelist.pagelist[0] %}

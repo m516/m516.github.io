@@ -5,6 +5,8 @@ title: Micah Mundy's Portfolio
 
 ## Personal Projects
 * [CV Sandbox](https://m516.github.io/CV-Sandbox/) entails the work I've done with OpenCV for C++.
+* [WYSIWYG 2](https://m516.github.io/WYSIWYG-2/) is a game that exploits the lack of perspective in isometric geometry, 
+  written as a Processing sketch.
 
 <div>
 {% if site.data.pagelist.pagelist[0] %}

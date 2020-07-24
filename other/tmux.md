@@ -5,7 +5,7 @@ because I used SSH to establish a connection to the terminal on the Pi. Fortunat
 that Tmux is a terminal emulator that can easily attach and detach to processes, and I can run
 any number of projects without holding an SSH connection.
 
-## Installation on the Pi
+## Installation on the Pi/Nvidia Jetson
 Tmux is an `apt` package, so it can be installed with the following command: `sudo apt-get install tmux`
 
 ## Interesting commands

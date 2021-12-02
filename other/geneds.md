@@ -1,5 +1,5 @@
 ---
 layout: default
-title: General Education Reflecte: 
+title: General Education Reflection
 ---
 TBD

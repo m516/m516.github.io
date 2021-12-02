@@ -11,3 +11,7 @@ pagelist:
     subfolderitems:
       - page: Cpr E 394 Ethics Essay
         url: /other/essay.html
+      - page: General Education Reflection
+        url: /other/geneds.html
+      - page: Cumulative Reflection
+        url: /other/cum.html

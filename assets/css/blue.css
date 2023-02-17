@@ -16,7 +16,7 @@ a {
   padding: 32px;
   background: linear-gradient(#474747, #3a3a3a);
   text-decoration: underline;
-  filter: drop-shadow(0     32px 128px  rgb(44, 44, 44));
+  /* filter: drop-shadow(0     32px 128px  rgb(44, 44, 44)); */
 }
 
 h1{

@@ -1,0 +1,30 @@
+
+    
+body {
+    background: radial-gradient(#000000, #0f0e0d);
+    background-attachment: fixed;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #ccd7db;
+
+  }
+  
+  h1{
+    font-size: 5em;
+    text-align: center;    
+    text-shadow: 
+    0    0    5px #b1b1b1d2, 
+    0    0    128px #0051bb;
+  }
+  h2{
+    font-size: 3em;
+    text-align: center;
+    text-shadow: 
+    0    0    5px #b1b1b1d2, 
+    0    0    128px #0051bb, 
+    0    0    128px #006be6d5, 
+  }
+  h3{
+    font-size: 1.5em;
+    text-align: center;
+  }
+  

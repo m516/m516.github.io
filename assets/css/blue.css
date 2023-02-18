@@ -1,9 +1,9 @@
 
     
 body {
+    font-family: "Poppins", sans-serif;
     background: radial-gradient(#000000, #0f0e0d);
     background-attachment: fixed;
-    font-family:Arial, Helvetica, sans-serif;
     color: #ccd7db;
 
 }
@@ -16,12 +16,17 @@ a {
   padding: 32px;
   background: linear-gradient(#474747, #3a3a3a);
   text-decoration: underline;
-  /* filter: drop-shadow(0     32px 128px  rgb(44, 44, 44)); */
+  /* filter: drop-shadow(0     32px 128px  rgb(44, 44, 44)); */ /*TODO May cause black glitches in Firefox?*/
 }
-
+p{
+  padding: 20%;
+  font-size: 200%;
+  font-weight: 100;
+}
 h1{
   font-size: 5em;
-  text-align: center;    
+  text-align: center; 
+  font-weight: 5;   
   text-shadow: 
   0    8px    16px #00000085
 }

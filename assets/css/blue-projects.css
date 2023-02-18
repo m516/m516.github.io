@@ -34,7 +34,7 @@
   .container {
     --tile_width: max(33%,250px);
     width: var(--tile_width);
-    height: var(--tile_width)*1.5;
+    height: 300px;
     display: flex;
     justify-content: center;
     position: relative;
@@ -54,7 +54,7 @@
   
   
   .project_description {
-    width: 100%;
+    width: 90%;
     position: absolute;
     top: 50%;
     left: 50%;

@@ -14,8 +14,12 @@ a {
 
 .header {
   padding: 32px;
-  background: linear-gradient(#474747, #3a3a3a);
+  background: linear-gradient(#00dee6, #0044ff);
   text-decoration: underline;
+  filter:
+          drop-shadow(0     0 64px rgb(0, 73, 141))
+          drop-shadow(0     0 512px rgba(95, 0, 0, 0.445))
+          ;
   /* filter: drop-shadow(0     32px 128px  rgb(44, 44, 44)); */ /*TODO May cause black glitches in Firefox?*/
 }
 p{
@@ -26,11 +30,12 @@ p{
 h1{
   font-size: 5em;
   text-align: center; 
-  font-weight: 5;   
+  font-weight: 900;   
   text-shadow: 
-  0    8px    16px #00000085
+  0    0px    4px #0a071f3b;
 }
 h2{
+  padding-top: 20%;
   font-size: 3em;
   text-align: center;
   text-shadow: 

@@ -32,9 +32,8 @@
   
   /* Container holding the image and the text */
   .container {
-    --tile_width: max(33%,250px);
-    width: var(--tile_width);
-    height: 300px;
+    width: max((1/var(--columns, 3)*100%),250px);
+    height: max(100vh/2, 300px);
     display: flex;
     justify-content: center;
     position: relative;

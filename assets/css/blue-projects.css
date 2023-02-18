@@ -53,6 +53,7 @@
   
   
   .project_description {
+    font-size: max(100vh/50, 300px / 25);
     width: 90%;
     position: absolute;
     top: 60%;

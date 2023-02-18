@@ -33,12 +33,12 @@ a {
 }
 
 .textblock{
-  padding: 5% 20%;
+  padding: 5% 0%;
 }
 p{
+  padding: 0% 20%;
   font-size: 200%;
   font-weight: 100;
-  padding: 0% 20%;
 }
 h1{
   font-size: 5em;

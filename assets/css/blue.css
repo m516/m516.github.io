@@ -29,7 +29,6 @@ a {
           drop-shadow(0     0 64px rgb(0, 73, 141))
           drop-shadow(0     0 512px rgba(95, 0, 0, 0.445))
           ;
-  /* filter: drop-shadow(0     32px 128px  rgb(44, 44, 44)); */ /*TODO May cause black glitches in Firefox?*/
 }
 
 .textblock{

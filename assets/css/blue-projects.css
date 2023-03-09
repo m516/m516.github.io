@@ -23,8 +23,8 @@
     width: 100%;
     height: 100%;
     filter: saturate(1)
-            drop-shadow(0     0 16px  rgba(58, 150, 255, 0.548))
-            drop-shadow(0     0 16px rgb(0, 73, 141))
+            drop-shadow(0     0 32px rgb(5, 0, 73))
+            drop-shadow(0     0 128px rgb(5, 0, 73))
             drop-shadow(0     0 512px rgba(95, 0, 0, 0.445))
             ;
   }
